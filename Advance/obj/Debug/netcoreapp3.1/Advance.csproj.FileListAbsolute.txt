@@ -1,0 +1,13 @@
+C:\Users\techverx\source\repos\Advance\Advance\bin\Debug\netcoreapp3.1\Advance.exe
+C:\Users\techverx\source\repos\Advance\Advance\bin\Debug\netcoreapp3.1\Advance.deps.json
+C:\Users\techverx\source\repos\Advance\Advance\bin\Debug\netcoreapp3.1\Advance.runtimeconfig.json
+C:\Users\techverx\source\repos\Advance\Advance\bin\Debug\netcoreapp3.1\Advance.runtimeconfig.dev.json
+C:\Users\techverx\source\repos\Advance\Advance\bin\Debug\netcoreapp3.1\Advance.dll
+C:\Users\techverx\source\repos\Advance\Advance\bin\Debug\netcoreapp3.1\Advance.pdb
+C:\Users\techverx\source\repos\Advance\Advance\obj\Debug\netcoreapp3.1\Advance.csprojAssemblyReference.cache
+C:\Users\techverx\source\repos\Advance\Advance\obj\Debug\netcoreapp3.1\Advance.AssemblyInfoInputs.cache
+C:\Users\techverx\source\repos\Advance\Advance\obj\Debug\netcoreapp3.1\Advance.AssemblyInfo.cs
+C:\Users\techverx\source\repos\Advance\Advance\obj\Debug\netcoreapp3.1\Advance.csproj.CoreCompileInputs.cache
+C:\Users\techverx\source\repos\Advance\Advance\obj\Debug\netcoreapp3.1\Advance.dll
+C:\Users\techverx\source\repos\Advance\Advance\obj\Debug\netcoreapp3.1\Advance.pdb
+C:\Users\techverx\source\repos\Advance\Advance\obj\Debug\netcoreapp3.1\Advance.genruntimeconfig.cache
